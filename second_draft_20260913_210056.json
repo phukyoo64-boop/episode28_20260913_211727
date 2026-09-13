@@ -1069,6 +1069,15 @@
       "5": "draft5_combined.mp3",
       "6": "draft6_combined.mp3",
       "7": "draft7_combined.mp3"
+    },
+    "video": {
+      "1": "draft1_combined.mp4",
+      "2": "draft2_combined.mp4",
+      "3": "draft3_combined.mp4",
+      "4": "draft4_combined.mp4",
+      "5": "draft5_combined.mp4",
+      "6": "draft6_combined.mp4",
+      "7": "draft7_combined.mp4"
     }
   }
 }
