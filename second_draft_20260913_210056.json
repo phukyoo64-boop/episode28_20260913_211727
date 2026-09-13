@@ -1060,6 +1060,15 @@
         "file": "draft7_line006_Hobo.mp3",
         "bytes": 27792
       }
-    ]
+    ],
+    "combined": {
+      "1": "draft1_combined.mp3",
+      "2": "draft2_combined.mp3",
+      "3": "draft3_combined.mp3",
+      "4": "draft4_combined.mp3",
+      "5": "draft5_combined.mp3",
+      "6": "draft6_combined.mp3",
+      "7": "draft7_combined.mp3"
+    }
   }
 }
