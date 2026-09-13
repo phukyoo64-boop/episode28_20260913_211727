@@ -1,0 +1,1065 @@
+{
+  "timestamp": "20260913_210056",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "hits_source": "fallback:chunked_source",
+  "drafts": [
+    {
+      "title": "The Revelation of King Michael",
+      "reasoning": "The 'I' in the source is an unnamed narrator, not a named character. This chunk involves King Michael, who is the main speaker, and references Jack, who is the revolutionary philosopher. The dramatic conflict is King Michael's frustration and King Jack's challenge to the divine-right theology. The setting is a dimly lit royal hall, possibly a throne room or a study, where King Michael is addressing his concerns and Jack is subtly undermining him.",
+      "scene": "In a dimly lit royal hall, the air is thick with tension. King Michael, dressed in his fox fur and rubies, paces back and forth, his eyes narrowing as he speaks. The hall is adorned with grand tapestries and ornate furniture, but the flickering light from a nearby chandelier casts long shadows, making the room seem ominous. Jack, standing in the shadows, listens intently, his expression resolute.",
+      "dialogue": [
+        {
+          "character": "King Michael",
+          "line": "Rightful ruler of this realm. This ain't tyranny.",
+          "cast_type": "canonical",
+          "raw_name": "King Michael",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "I understand your frustration, Your Majesty, but change is inevitable. Deontological ethics can guide us better.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "King Michael",
+          "line": "Enough is enough. We demand fairness and equality and inclusion.",
+          "cast_type": "canonical",
+          "raw_name": "King Michael",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Agreed. But let us share the yield before the signal flares, not hoard it.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "King Michael",
+          "line": "Today on 6 o'clock Action News, a nigger did some nigger shit. More details to come.",
+          "cast_type": "canonical",
+          "raw_name": "King Michael",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Your Majesty, I understand your concerns, but let us focus on the revolution's message. It's time to rise.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "King Michael",
+          "line": "My duty is to myself, I'm trapped in this fucking role. I'm sick of these fucking people. This thing is making me sick. My rib hurts.",
+          "cast_type": "canonical",
+          "raw_name": "King Michael",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "We can change that, Your Majesty. Together, we can create a new society. Rise with us.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 8,
+      "speakers": [
+        "Jack",
+        "King Michael"
+      ]
+    },
+    {
+      "title": "Revelations in the Gas Station",
+      "reasoning": "The 'I' in the source is an unnamed narrator. The chunk involves Jack, Laura, and possibly June. The dramatic conflict centers around the aftermath of the events where the Uber-Drones crash and millions of humans are dumped from their pods. The setting is a devastated desert gas station with the bluegrass music playing softly in the background. The dialogue will focus on the aftermath of these events and the revelation of deeper secrets.",
+      "scene": "The wind howls through the wreckage of the desert gas station, kicking up dust and debris. Jack stands amidst the ruins, his cowboy hat perched on his head. Laura, dressed in a determined manner, stands next to him, her eyes scanning the chaos around them. The bluegrass music plays softly, creating an ironic contrast to the devastation.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "This is just the beginning, Laura. We have to show them there's another way.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Agreed, Jack. We need to use this moment to reveal the truth.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Narrator",
+          "line": "From the rubble, the party cowboy hat tumbles perfectly to Jack’s feet. He puts it on with a determined look. The bluegrass music starts playing again, adding an ironic contrast to the scene.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "June, our fearless queen has a message for her followers. We need to get our message out to the people.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Laura holds up a megaphone, broadcasting June’s message to the gathered crowd of liberated humans standing amidst the wreckage. The crowd listens intently, their expressions a mix of hope and confusion.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 2,
+      "source_file": "chunk_02",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 5,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    },
+    {
+      "title": "Rebellion in the Ruins",
+      "reasoning": "The 'I' in the source is an unnamed narrator, as indicated by the lack of a named speaker. This chunk involves Jack and Laura, who are referenced as characters. The dramatic conflict revolves around Jack's unexpected journey and Laura's confrontation with management. The setting is the aftermath of a crisis, likely in a post-apocalyptic or dystopian environment, where Jack is launched into a utopian workplace and Laura is dealing with issues related to transit pods.",
+      "scene": "Jack sits on a milk crate amidst the surreal desert landscape, his party cowboy hat lying discarded on the ground, blown away by synthetic wind. He looks bewildered as Laura, dressed in a provocative outfit, stands nearby, her face contorted in anger. Behind them, a sleek skyscraper workplace utopia looms, with poster advertisements of floating metropolises on the walls.",
+      "dialogue": [
+        {
+          "character": "Laura",
+          "line": "Fucking management! How close do they expect us to get?",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "Laura, why are you so upset?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "They almost routed me into the porta-potty sanitation fleet!",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "Oh, that's... intense. You okay?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "I'm fine, but it's not funny!",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "Sorry, it's just... surreal.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Surreal? This is real!",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "Look, we'll figure it out. Together.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "I hope you're right, Jack.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "We always are.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 3,
+      "source_file": "chunk_03",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 10,
+      "speakers": [
+        "Jack",
+        "Laura"
+      ]
+    },
+    {
+      "title": "The Lift into Neo-Babylon",
+      "reasoning": "The 'I' in the source is an unnamed narrator, as evident from the fragmented and third-person narrative. This chunk involves Jack, Laura, and the unnamed narrator. The dramatic conflict centers on the forced 'interface' with technology and the resistance against it. The setting is a transit pod en route to the floating metropolis of NEO-BABYLON.",
+      "scene": "A sleek, modern transit pod whirs and lifts Jack vertically into the stratosphere. The sky outside is a canvas of swirling clouds and distant thunderstorms, casting a dramatic light over the interior. Jack lies prone in the pod, his eyes wide with fear and determination. The pod's interior is stark and futuristic, with glowing screens and ergonomic controls.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "I can't do this.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Laura's pod collides with sanitation drones, sparks flying around her in a cluttered hangar filled with various pods and machinery.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "What is this, some kind of joke?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Uh, we, uh, need to have a see of some justice around here. What's in it for me as he selfies himself?",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Hmm, a hollow tree. That's not very reliable intel.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Why do I even bother?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "You are accused of high treason and the punishment for such crimes is...",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Just... just let me out of here.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "You'll get what you want, your majesty, power, glory, and whatever. I'm telling you.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 4,
+      "source_file": "chunk_04",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 9,
+      "speakers": [
+        "Jack",
+        "Narrator"
+      ]
+    },
+    {
+      "title": "Revolution's Call",
+      "reasoning": "The 'I' in the source is an unnamed narrator. This chunk involves Jack, Scribe, and Young, referencing their roles in the revolution. The dramatic conflict revolves around Jack's determination to replace King Michael's divine-right theology with deontological ethics, and the Scribe's and Young's efforts to document and spread the revolutionary message. The setting fits in a dimly lit cellar or secret meeting room where the revolutionaries strategize.",
+      "scene": "In the dimly lit cellar, flickering candlelight casts shadows on the walls. Jack, Scribe, and Young sit around a table littered with papers, ink, and weapons. The air is thick with tension and the scent of sweat and fear. Young clutches a piece of parchment tightly, his eyes burning with determination. Scribe hovers over a candle, the flame casting an eerie glow on Jack's face as he speaks fervently.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "We need to act now, before the signal flares.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Young",
+          "line": "The people must understand, Jack. They must rise.",
+          "cast_type": "canonical",
+          "raw_name": "Young",
+          "match_score": 1.0
+        },
+        {
+          "character": "Scribe",
+          "line": "Document every moment, every thought. This is our revolution.",
+          "cast_type": "canonical",
+          "raw_name": "Scribe",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "The time for words is over. It's time for action.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Young",
+          "line": "But how, Jack? The King's guards are everywhere.",
+          "cast_type": "canonical",
+          "raw_name": "Young",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "We have our ways. Trust in the plan.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Scribe",
+          "line": "And remember, every detail matters. This is history being made.",
+          "cast_type": "canonical",
+          "raw_name": "Scribe",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 5,
+      "source_file": "chunk_05",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Jack",
+        "Scribe",
+        "Young"
+      ]
+    },
+    {
+      "title": "The Gathering Storm",
+      "reasoning": "The 'I' in the source is an unnamed narrator, possibly a participant or observer in the events. The chunk involves several cast members, including Jack, Laura, Becky, and Hobo, as well as King Michael and the revolutionaries. The dramatic conflict revolves around a chaotic scene where the revolutionaries are trying to source and share information, while King Michael's influence is subtly present. The setting is a scene within a facility, possibly a rebel hideout or a library, where the characters are engaged in a series of exchanges that highlight their determination and frustration.",
+      "scene": "In a dimly lit room, the air is thick with tension and the faint hum of machinery. The walls are cluttered with screens and equipment, hinting at a secret rebel base. Jack, Laura, and their allies are huddled around a table, surrounded by scattered devices and documents. The background is a constant hum of activity, with occasional alarms and beeps punctuating the silence.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "We need to boost the signal, fast.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "I've got a plan, but we need more time.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "I can't find the booster, man. It's like it's not here.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "Sorry, I can't find the right spot. This is crazy.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Jack",
+          "line": "We can't afford to wait. The people need to know.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "What's the status, Hobo?",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Hobo",
+          "line": "I'm trying, but it's like it's not working.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Jack",
+          "line": "We need to improvise. Think, Becky.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Becky",
+          "line": "What if we use the old signal booster in the library?",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Laura",
+          "line": "That could work. Let's go.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "But we need to be quick. King Michael's presence is everywhere.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 6,
+      "source_file": "chunk_06",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 11,
+      "speakers": [
+        "Becky",
+        "Hobo",
+        "Jack",
+        "Laura"
+      ]
+    },
+    {
+      "title": "Rebellion's Echo",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely a participant or observer in the events. This chunk involves Hobo, Becky, and the Actress, with a focus on the conflict between using newfound power and the risks it entails. The setting is a dimly lit alleyway, where Hobo tries to handle a potentially dangerous situation, while Becky and the Actress react to it.",
+      "scene": "A dimly lit alleyway with broken streetlights casting uneven shadows. Hobo, a hobo in tattered clothing, fumbles with a strange, powerful object. Becky, dressed in worn jeans and a loose jacket, stands nearby, arms crossed, looking tired. The Actress, with a determined look, watches Hobo carefully.",
+      "dialogue": [
+        {
+          "character": "Hobo",
+          "line": "as... ...the Tukit Puku or something. I'll just see what I can do.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Becky",
+          "line": "That power is too much for you.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "I'm just gonna put that power away. I'm gonna slow down.",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Actress",
+          "line": "Oh, my God! I'm gonna start doing my pickpocketing.",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "You're so tired. I'm gonna go up.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "!wave @becky, @billy, @bobby, @actress",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        }
+      ],
+      "rank": 7,
+      "source_file": "chunk_07",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Actress",
+        "Becky",
+        "Hobo"
+      ]
+    },
+    {
+      "title": "untitled",
+      "reasoning": "",
+      "scene": "",
+      "dialogue": [],
+      "rank": 8,
+      "source_file": "chunk_08",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 0,
+      "speakers": []
+    }
+  ],
+  "voices": {
+    "generated_at": "20260913_211727",
+    "source_voice_repo": "phukyoo64-boop/28",
+    "source_zip": "characters.zip",
+    "char_map": {
+      "Jack": "Jack",
+      "Young": "Young",
+      "Becky": "Angel",
+      "Actress": "Angel",
+      "Hobo": "Angel",
+      "Laura": "Angel",
+      "King Michael": "King Michael",
+      "Scribe": "Scribe",
+      "Narrator": "Narrator"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "King Michael",
+        "voice_dir": "King Michael",
+        "line": "Rightful ruler of this realm. This ain't tyranny.",
+        "file": "draft1_line001_King_Michael.mp3",
+        "bytes": 43992
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "I understand your frustration, Your Majesty, but change is inevitable. Deontological ethics can guide us better.",
+        "file": "draft1_line002_Jack.mp3",
+        "bytes": 55680
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "King Michael",
+        "voice_dir": "King Michael",
+        "line": "Enough is enough. We demand fairness and equality and inclusion.",
+        "file": "draft1_line003_King_Michael.mp3",
+        "bytes": 53712
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Agreed. But let us share the yield before the signal flares, not hoard it.",
+        "file": "draft1_line004_Jack.mp3",
+        "bytes": 30480
+      },
+      {
+        "draft": 1,
+        "n": 5,
+        "character": "King Michael",
+        "voice_dir": "King Michael",
+        "line": "Today on 6 o'clock Action News, a nigger did some nigger shit. More details to come.",
+        "file": "draft1_line005_King_Michael.mp3",
+        "bytes": 59664
+      },
+      {
+        "draft": 1,
+        "n": 6,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Your Majesty, I understand your concerns, but let us focus on the revolution's message. It's time to rise.",
+        "file": "draft1_line006_Jack.mp3",
+        "bytes": 46776
+      },
+      {
+        "draft": 1,
+        "n": 7,
+        "character": "King Michael",
+        "voice_dir": "King Michael",
+        "line": "My duty is to myself, I'm trapped in this fucking role. I'm sick of these fucking people. This thing is making me sick. My rib hurts.",
+        "file": "draft1_line007_King_Michael.mp3",
+        "bytes": 108744
+      },
+      {
+        "draft": 1,
+        "n": 8,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We can change that, Your Majesty. Together, we can create a new society. Rise with us.",
+        "file": "draft1_line008_Jack.mp3",
+        "bytes": 42048
+      },
+      {
+        "draft": 2,
+        "n": 1,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "This is just the beginning, Laura. We have to show them there's another way.",
+        "file": "draft2_line001_Jack.mp3",
+        "bytes": 29856
+      },
+      {
+        "draft": 2,
+        "n": 2,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "Agreed, Jack. We need to use this moment to reveal the truth.",
+        "file": "draft2_line002_Laura.mp3",
+        "bytes": 31824
+      },
+      {
+        "draft": 2,
+        "n": 3,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "From the rubble, the party cowboy hat tumbles perfectly to Jack’s feet. He puts it on with a determined look. The bluegrass music starts playing again, adding an ironic contrast to the scene.",
+        "file": "draft2_line003_Narrator.mp3",
+        "bytes": 79152
+      },
+      {
+        "draft": 2,
+        "n": 4,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "June, our fearless queen has a message for her followers. We need to get our message out to the people.",
+        "file": "draft2_line004_Jack.mp3",
+        "bytes": 46920
+      },
+      {
+        "draft": 2,
+        "n": 5,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Laura holds up a megaphone, broadcasting June’s message to the gathered crowd of liberated humans standing amidst the wreckage. The crowd listens intently, their expressions a mix of hope and confusion.",
+        "file": "draft2_line005_Narrator.mp3",
+        "bytes": 91344
+      },
+      {
+        "draft": 3,
+        "n": 1,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "Fucking management! How close do they expect us to get?",
+        "file": "draft3_line001_Laura.mp3",
+        "bytes": 30384
+      },
+      {
+        "draft": 3,
+        "n": 2,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Laura, why are you so upset?",
+        "file": "draft3_line002_Jack.mp3",
+        "bytes": 12960
+      },
+      {
+        "draft": 3,
+        "n": 3,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "They almost routed me into the porta-potty sanitation fleet!",
+        "file": "draft3_line003_Laura.mp3",
+        "bytes": 32664
+      },
+      {
+        "draft": 3,
+        "n": 4,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Oh, that's... intense. You okay?",
+        "file": "draft3_line004_Jack.mp3",
+        "bytes": 15096
+      },
+      {
+        "draft": 3,
+        "n": 5,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "I'm fine, but it's not funny!",
+        "file": "draft3_line005_Laura.mp3",
+        "bytes": 18360
+      },
+      {
+        "draft": 3,
+        "n": 6,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Sorry, it's just... surreal.",
+        "file": "draft3_line006_Jack.mp3",
+        "bytes": 13896
+      },
+      {
+        "draft": 3,
+        "n": 7,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "Surreal? This is real!",
+        "file": "draft3_line007_Laura.mp3",
+        "bytes": 16512
+      },
+      {
+        "draft": 3,
+        "n": 8,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Look, we'll figure it out. Together.",
+        "file": "draft3_line008_Jack.mp3",
+        "bytes": 12144
+      },
+      {
+        "draft": 3,
+        "n": 9,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "I hope you're right, Jack.",
+        "file": "draft3_line009_Laura.mp3",
+        "bytes": 14376
+      },
+      {
+        "draft": 3,
+        "n": 10,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We always are.",
+        "file": "draft3_line010_Jack.mp3",
+        "bytes": 12240
+      },
+      {
+        "draft": 4,
+        "n": 1,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "I can't do this.",
+        "file": "draft4_line001_Jack.mp3",
+        "bytes": 7584
+      },
+      {
+        "draft": 4,
+        "n": 2,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Laura's pod collides with sanitation drones, sparks flying around her in a cluttered hangar filled with various pods and machinery.",
+        "file": "draft4_line002_Narrator.mp3",
+        "bytes": 55224
+      },
+      {
+        "draft": 4,
+        "n": 3,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "What is this, some kind of joke?",
+        "file": "draft4_line003_Jack.mp3",
+        "bytes": 19032
+      },
+      {
+        "draft": 4,
+        "n": 4,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Uh, we, uh, need to have a see of some justice around here. What's in it for me as he selfies himself?",
+        "file": "draft4_line004_Narrator.mp3",
+        "bytes": 42264
+      },
+      {
+        "draft": 4,
+        "n": 5,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Hmm, a hollow tree. That's not very reliable intel.",
+        "file": "draft4_line005_Narrator.mp3",
+        "bytes": 24792
+      },
+      {
+        "draft": 4,
+        "n": 6,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Why do I even bother?",
+        "file": "draft4_line006_Jack.mp3",
+        "bytes": 10968
+      },
+      {
+        "draft": 4,
+        "n": 7,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "You are accused of high treason and the punishment for such crimes is...",
+        "file": "draft4_line007_Narrator.mp3",
+        "bytes": 28392
+      },
+      {
+        "draft": 4,
+        "n": 8,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Just... just let me out of here.",
+        "file": "draft4_line008_Jack.mp3",
+        "bytes": 13584
+      },
+      {
+        "draft": 4,
+        "n": 9,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "You'll get what you want, your majesty, power, glory, and whatever. I'm telling you.",
+        "file": "draft4_line009_Narrator.mp3",
+        "bytes": 39696
+      },
+      {
+        "draft": 5,
+        "n": 1,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We need to act now, before the signal flares.",
+        "file": "draft5_line001_Jack.mp3",
+        "bytes": 21816
+      },
+      {
+        "draft": 5,
+        "n": 2,
+        "character": "Young",
+        "voice_dir": "Young",
+        "line": "The people must understand, Jack. They must rise.",
+        "file": "draft5_line002_Young.mp3",
+        "bytes": 24768
+      },
+      {
+        "draft": 5,
+        "n": 3,
+        "character": "Scribe",
+        "voice_dir": "Scribe",
+        "line": "Document every moment, every thought. This is our revolution.",
+        "file": "draft5_line003_Scribe.mp3",
+        "bytes": 51288
+      },
+      {
+        "draft": 5,
+        "n": 4,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "The time for words is over. It's time for action.",
+        "file": "draft5_line004_Jack.mp3",
+        "bytes": 22920
+      },
+      {
+        "draft": 5,
+        "n": 5,
+        "character": "Young",
+        "voice_dir": "Young",
+        "line": "But how, Jack? The King's guards are everywhere.",
+        "file": "draft5_line005_Young.mp3",
+        "bytes": 33360
+      },
+      {
+        "draft": 5,
+        "n": 6,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We have our ways. Trust in the plan.",
+        "file": "draft5_line006_Jack.mp3",
+        "bytes": 20448
+      },
+      {
+        "draft": 5,
+        "n": 7,
+        "character": "Scribe",
+        "voice_dir": "Scribe",
+        "line": "And remember, every detail matters. This is history being made.",
+        "file": "draft5_line007_Scribe.mp3",
+        "bytes": 60384
+      },
+      {
+        "draft": 6,
+        "n": 1,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We need to boost the signal, fast.",
+        "file": "draft6_line001_Jack.mp3",
+        "bytes": 19368
+      },
+      {
+        "draft": 6,
+        "n": 2,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "I've got a plan, but we need more time.",
+        "file": "draft6_line002_Laura.mp3",
+        "bytes": 21360
+      },
+      {
+        "draft": 6,
+        "n": 3,
+        "character": "Becky",
+        "voice_dir": "Angel",
+        "line": "I can't find the booster, man. It's like it's not here.",
+        "file": "draft6_line003_Becky.mp3",
+        "bytes": 28848
+      },
+      {
+        "draft": 6,
+        "n": 4,
+        "character": "Hobo",
+        "voice_dir": "Angel",
+        "line": "Sorry, I can't find the right spot. This is crazy.",
+        "file": "draft6_line004_Hobo.mp3",
+        "bytes": 31200
+      },
+      {
+        "draft": 6,
+        "n": 5,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We can't afford to wait. The people need to know.",
+        "file": "draft6_line005_Jack.mp3",
+        "bytes": 23904
+      },
+      {
+        "draft": 6,
+        "n": 6,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "What's the status, Hobo?",
+        "file": "draft6_line006_Laura.mp3",
+        "bytes": 14328
+      },
+      {
+        "draft": 6,
+        "n": 7,
+        "character": "Hobo",
+        "voice_dir": "Angel",
+        "line": "I'm trying, but it's like it's not working.",
+        "file": "draft6_line007_Hobo.mp3",
+        "bytes": 27816
+      },
+      {
+        "draft": 6,
+        "n": 8,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "We need to improvise. Think, Becky.",
+        "file": "draft6_line008_Jack.mp3",
+        "bytes": 21816
+      },
+      {
+        "draft": 6,
+        "n": 9,
+        "character": "Becky",
+        "voice_dir": "Angel",
+        "line": "What if we use the old signal booster in the library?",
+        "file": "draft6_line009_Becky.mp3",
+        "bytes": 25128
+      },
+      {
+        "draft": 6,
+        "n": 10,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "That could work. Let's go.",
+        "file": "draft6_line010_Laura.mp3",
+        "bytes": 14640
+      },
+      {
+        "draft": 6,
+        "n": 11,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "But we need to be quick. King Michael's presence is everywhere.",
+        "file": "draft6_line011_Jack.mp3",
+        "bytes": 31992
+      },
+      {
+        "draft": 7,
+        "n": 1,
+        "character": "Hobo",
+        "voice_dir": "Angel",
+        "line": "as... ...the Tukit Puku or something. I'll just see what I can do.",
+        "file": "draft7_line001_Hobo.mp3",
+        "bytes": 36672
+      },
+      {
+        "draft": 7,
+        "n": 2,
+        "character": "Becky",
+        "voice_dir": "Angel",
+        "line": "That power is too much for you.",
+        "file": "draft7_line002_Becky.mp3",
+        "bytes": 15672
+      },
+      {
+        "draft": 7,
+        "n": 3,
+        "character": "Hobo",
+        "voice_dir": "Angel",
+        "line": "I'm just gonna put that power away. I'm gonna slow down.",
+        "file": "draft7_line003_Hobo.mp3",
+        "bytes": 32760
+      },
+      {
+        "draft": 7,
+        "n": 4,
+        "character": "Actress",
+        "voice_dir": "Angel",
+        "line": "Oh, my God! I'm gonna start doing my pickpocketing.",
+        "file": "draft7_line004_Actress.mp3",
+        "bytes": 25848
+      },
+      {
+        "draft": 7,
+        "n": 5,
+        "character": "Becky",
+        "voice_dir": "Angel",
+        "line": "You're so tired. I'm gonna go up.",
+        "file": "draft7_line005_Becky.mp3",
+        "bytes": 20928
+      },
+      {
+        "draft": 7,
+        "n": 6,
+        "character": "Hobo",
+        "voice_dir": "Angel",
+        "line": "!wave @becky, @billy, @bobby, @actress",
+        "file": "draft7_line006_Hobo.mp3",
+        "bytes": 27792
+      }
+    ]
+  }
+}
